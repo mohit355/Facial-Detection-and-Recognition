@@ -2,3 +2,6 @@ opencv-python
 numpy
 sklearn
 scipy
+tkinter
+os
+pickle
